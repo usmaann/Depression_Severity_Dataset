@@ -6,7 +6,7 @@ Data for "Early Identification of Depression Severity Levels on Reddit Using Ord
 
 Text and Label (Minimum, Mild, Moderate and Severe)
 
-**Below are the statistics of the three-class version of the released data (used in our accepted Webconf (WWW) paper)**
+**Below are the statistics of the four depression severity levels of the released data (used in our accepted Webconf (WWW) paper)**
 
 | Depression Severity         | Count |
 | ------------- |-------------|
